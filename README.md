@@ -9,12 +9,6 @@ The website showcases my **skills, projects, achievements, education, and experi
 
 It is designed to present my technical journey and provide an easy way for people to learn about my work and connect with me.
 
----
-
-## 🚀 Live Demo
-🔗 https://your-portfolio-link.com
-
----
 
 ## 📌 Features
 
